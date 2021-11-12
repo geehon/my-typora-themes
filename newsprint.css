@@ -57,6 +57,7 @@ pre {
 
 html {
 	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
 }
 
 html, body {
@@ -583,6 +584,7 @@ input {
 
 .dropdown-menu .divider {
 	border-color: #e5e5e5;
+	opacity: 1;
 }
 
 /* https://github.com/typora/typora-issues/issues/2046 */
